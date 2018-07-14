@@ -4,6 +4,7 @@ import './App.css';
 import Person from './Person'
 import Header from './Header'
 import Banner from './Banner'
+import TileList from './TileList'
 
 class App extends Component {
 
@@ -12,6 +13,7 @@ class App extends Component {
       <div className="App">
         <Header/>
         <Banner/>
+        <TileList/>
         {/**/}
       </div>
     );
