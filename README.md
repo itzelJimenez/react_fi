@@ -1,3 +1,3 @@
 # react_fi
 
-yarn add global live-server - Abre servidor de aplicación y transpila
+Proyecto de creación de componentes con create-react-app taller impartido en facultad de ingeniería
